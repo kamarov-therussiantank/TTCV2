@@ -459,7 +459,7 @@ insertElement('div', {
         </style>
         <div style="margin-top: 30px; clear: both;">
 	<img style="float: left; margin-right: 15px; margin-bottom: 30px; margin-left: 60px; width: 200px;" src="https://raw.githubusercontent.com/kamarov-therussiantank/TTCV2/refs/heads/main/src/assets/other/LatecomersLogo.png">
-	<span style="font-size: 18px; font-family: 'TankTrouble';">TankTrouble Trading Cards</span><br>
+	<span style="font-size: 18px; font-family: 'TankTrouble';">Kickstarter Latecomer's Shop</span><br>
 	Please go to the new shop to purchase a backer box, exclusive memberships or cool merchandise.<br>
     But what about those cool things beside the Backer Box? You may want to click here:<br><br>
 	<a href="https://tanktrouble.myspreadshop.com/" target="_blank">https://tanktrouble.myspreadshop.com/</a><br><br>
