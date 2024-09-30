@@ -466,6 +466,5 @@ insertElement('div', {
 	All purchases contribute to the ongoing development of TankTrouble. Thanks for your support!</div>
     `, 'mainContent');
 
-
 }
 });
